@@ -1,6 +1,7 @@
 # Java Chessboard
 
-Currently, this is just a chessboard. You cannot move pieces or do anything.
+This was just a chessboard. I've updated it and now you can move pieces! However, there is
+no move validation yet (you can move the rooks diagonally!).
 
 ## Compilation and running
 ```
