@@ -3,10 +3,10 @@ import java.awt.Container;
 
 public class App extends JFrame {
     Container cp;
-    Board board;
+    public static Board board;
 
     public static final int WIDTH=600;
-    public static final int HEIGHT=640;
+    public static final int HEIGHT=600+37;
     public static void main(String[] args) throws Exception {
         App app=new App();
         app.setSize(WIDTH,HEIGHT);

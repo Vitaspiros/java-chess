@@ -16,7 +16,7 @@ public class FENDecoder {
         Map.entry('r',8 | 5),
         Map.entry('p',8 | 6),
 
-        Map.entry('#',0)
+        Map.entry('#', 0)
     );
 
     public static int[][] fenToArray(String fenString) {
